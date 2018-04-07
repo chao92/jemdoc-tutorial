@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}
+= Chao Jiang 
+
+~~~
+{}{img_left}{chao.jpeg}{alt text}{244.8px}{326.4px}{}
+Chao Jiang \n
+Ph.D. Student \n 
+[https://www.eng.auburn.edu/comp/ Department of Computer Science and Software Engineering] \n
+[http://auburn.edu/ Auburn University]  \n
+Contact: [chao@auburn.edu Email], [https://www.linkedin.com/in/chaojiang92/ Linkedin], [https://github.com/chao92 Github], [http://chaojiang.me/ Blog]
+~~~
+
+== Short Bio 
+I am a Ph.D. student at Auburn University. I obtained my Master degree in ECE from University of Oklahoma at Tulsa under the supervision of [http://www.samuelcheng.info/ Prof. Samuel Cheng]. I got my Bachelor degree in Software Engineering, Northwest A\&F University.
+== News 
+- \[10-03-2017\] "A community effort to protect genomic data sharing, collaboration and outsourcing" accepted by npj Genomic Medicine
+== Education 
+- Ph.D., Department of Computer Science and Software Engineering, Auburn University, Auburn, AL USA, Aug. 2017 - Present
+- M.S., School of Electrical and Computer Engineering, University of Oklahoma, Tulsa, OK USA, Aug. 2014 - Aug. 2016
+- B.E., College of Information Engineering, Northwest A\&F University, Yangling, Shaanxi China, Sep. 2010 - July 2014
+== Research Interests 
+- Data Mining 
+- Machine Learning 
+- Deep Learning 

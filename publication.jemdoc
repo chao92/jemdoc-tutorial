@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications 
+[https://scholar.google.com/citations?user=tZs2WzcAAAAJ&hl=en \[Google Scholar\]]
+- Journal Papers
+-- [ A community effort to protect genomic data sharing, collaboration and outsourcing]\n
+Wang, Shuang and Jiang, Xiaoqian and Tang, Haixu and Wang, Xiaofeng and Bu, Diyue and Carey, Knox and Dyke, Stephanie OM and Fox, Dov and *Jiang, Chao* and Lauter, Kristin and et al. npj Genomic Medicine 2 (1), 33, 2017
+-- [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0316-1 Secure Multi-pArty Computation Grid LOgistic REgression (SMAC-GLORE)]\n
+Haoyi Shi, *Chao Jiang*, Wenrui Dai, Xiaoqian Jiang, Yuzhe Tang, Lucila Ohno-Machado and Shuang Wang, BMC Medical informatics and Decision Making (BMC), 16(Suppl 3):89, 2016.
+-- [https://academic.oup.com/jamia/article/22/6/1153/2358136/Trends-in-biomedical-informatics-automated-topic Trends in biomedical informatics: automated topic analysis of JAMIA articles]\n
+Dong Han, Shuang Wang, *Chao Jiang*, Xiaoqian Jiang, Hyeon-Eui Kim, Jimeng Sun, Lucila Ohno-Machado, J Am Med Inform Assoc (2015) 22 (6): 1153-1163.
+- Conference Papers
+- Posters
+-- MALTASE: a Mobile AppLication To improve patients’ Access to their data Sharing preferencE \n
+*C. Jiang*, X. Jiang, S. Wang, D. Guijarro, E. Bell, I. Jang, G. Yun, M. Rahman, L. Ohno-Machado, H. Kim, AMIA (2017)
+-- Honoring Patient’s Data Sharing Preferences: Implementation Challenges \n
+E. Bell, D. Guijarro, I. Jang, W. Zhu, T. Bath, G. Yun, M. Rahman, *C. Jiang*, X. Jiang, L. Ohno-Machado, H. Kim, AMIA (2017)
